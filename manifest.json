@@ -1,6 +1,6 @@
 {
   "name": "Калькулятор ИМТ",
-  "short_name": "short name",
+  "short_name": "calculator",
   "theme_color": "ccb5ff",
   "background_color": "#fff",
   "display": "standalone",
